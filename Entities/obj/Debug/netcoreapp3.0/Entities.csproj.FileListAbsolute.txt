@@ -1,0 +1,2 @@
+D:\exoft\fluentAPItask1\FluentAPI_Test1\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+D:\exoft\fluentAPItask1\FluentAPI_Test1\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
